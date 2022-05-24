@@ -1,0 +1,13 @@
+nouvelle session
+ajoute candidat Paul
+ajoute candidat Margot
+ajoute formation Université Côte d'Azur (1 places)
+ajoute formation Université de Toulon (1 places)
+commission de classement de Université Côte d'Azur : [Paul; Margot]
+commission de classement de Université de Toulon : [Paul; Margot]
+réunit commissions
+nouveau jour
+Voeux en attente de Paul : {}
+Propositions en attente de Paul : {}
+Voeux en attente de Margot : {}
+Propositions en attente de Margot : {}

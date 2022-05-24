@@ -1,0 +1,14 @@
+FEATURES
+16/11 => A ce jour, seul les 3 premiers algorithmes ont été réalisé.
+22/11 => L'api a été réalisé, on va maintenant 'sécurisé' le code et peut-etre l'améliorer.
+08/12 => L'ensemble du projet a été réalisé en essayant de respecter l'ensemble des contraintes.
+
+TESTS
+16/11 => A ce jour, les test fournis pour les 3 premiers algorithmes ne debusque pas de bugs.
+22/11 => Les test fournis nativement ne detecte aucun bugs.
+08/12 => L'ensembles des tests ne révèlent aucun problèmes.
+
+KNOWN ISSUES
+16/11 => Pas de bugs connues.
+22/11 => Plusieurs problemes connus, On peut ajouter les formations et les candidats après les commissions et avancé les phases d'appelles avant celle-ci.
+08/12 => Pas de bugs connues.

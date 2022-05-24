@@ -1,0 +1,23 @@
+nouvelle session
+ajoute candidat Paul
+ajoute candidat Margot
+ajoute formation Université Côte d'Azur (1 places)
+ajoute formation Université de Toulon (1 places)
+ajoute voeu de Paul pour Université Côte d'Azur
+ajoute voeu de Paul pour Université de Toulon
+ajoute voeu de Margot pour Université Côte d'Azur
+ajoute voeu de Margot pour Université de Toulon
+commission de classement de Université Côte d'Azur : [Margot; Paul]
+commission de classement de Université de Toulon : [Margot; Paul]
+réunit commissions
+nouveau jour
+Voeux en attente de Paul : {Université Côte d'Azur(0), Université de Toulon(0)}
+Propositions en attente de Paul : {}
+Voeux en attente de Margot : {}
+Propositions en attente de Margot : {Université Côte d'Azur, Université de Toulon}
+Margot renonce à Université Côte d'Azur
+nouveau jour
+Voeux en attente de Paul : {Université de Toulon(0)}
+Propositions en attente de Paul : {Université Côte d'Azur}
+Voeux en attente de Margot : {}
+Propositions en attente de Margot : {Université de Toulon}
